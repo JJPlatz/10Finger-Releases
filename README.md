@@ -1,6 +1,6 @@
 # 10Finger — Der kostenlose 10-Finger-Schreibtrainer
 
-**Offline-Version für Windows (portabel, USB-Stick).**
+**Beta-Version.** Offline-Version für Windows (portabel, USB-Stick).
 
 ## Download
 
