@@ -1,0 +1,6 @@
+# Claude Code settings (API keys)
+**/.claude/settings*.json
+
+# Temp
+*.tmp
+Thumbs.db
