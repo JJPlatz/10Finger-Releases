@@ -1,6 +1,6 @@
 # 10Finger — Der kostenlose 10-Finger-Schreibtrainer
 
-**Offline-Version für Windows (portabel, USB-Stick).** Entwickelt auf Basis von Tipp10.
+**Offline-Version für Windows (portabel, USB-Stick).**
 
 ## Download
 
@@ -34,8 +34,3 @@
 - Keine Installation nötig — läuft direkt vom USB-Stick
 - Kein Internetzugang erforderlich
 
-## Original Tipp10
-
-Diese Software basiert auf Tipp10, dem Testsieger der Stiftung Warentest (November 2011). Tipp10 wurde über 5 Millionen Mal heruntergeladen und wird von zahlreichen Schulen und Unternehmen eingesetzt.
-
-Mehr Informationen zur Original-Software: [tipp10.com](https://www.tipp10.com/de/support/docs/all/)
