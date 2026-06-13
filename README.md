@@ -26,7 +26,11 @@
 
 ### Lizenz & Testversion
 
-10Finger ist **4 Wochen kostenlos testbar**. Danach ist ein Lizenzschlüssel erforderlich. Lizenzschlüssel erhalten Sie unter: [Kontakt](https://github.com/JJPlatz)
+10Finger ist **4 Wochen kostenlos testbar**. Danach ist ein Lizenzschlüssel erforderlich.
+
+**Lizenz anfragen:** [jplatz@hotmail.de](mailto:jplatz@hotmail.de)
+
+**Fragen & Support:** [GitHub Issues](https://github.com/JJPlatz/10Finger-Releases/issues)
 
 ### Systemvoraussetzungen
 
