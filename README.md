@@ -7,8 +7,8 @@
 | Datei | Beschreibung |
 |---|---|
 | [10Finger.zip](downloads/10Finger.zip) | Portable App (Windows, ca. 2 MB) |
-| [Lehrerhandbuch](downloads/10Finger_Lehrerhandbuch.docx) | Didaktische Hinweise für Lehrkräfte |
-| [Schülerhandbuch](downloads/10Finger_Schuelerhandbuch.docx) | Bedienungsanleitung für Lernende |
+| [Lehrerhandbuch (PDF)](downloads/10Finger_Lehrerhandbuch.pdf) | Didaktische Hinweise für Lehrkräfte |
+| [Schülerhandbuch (PDF)](downloads/10Finger_Schuelerhandbuch.pdf) | Bedienungsanleitung für Lernende |
 
 ## Für Lehrkräfte
 
